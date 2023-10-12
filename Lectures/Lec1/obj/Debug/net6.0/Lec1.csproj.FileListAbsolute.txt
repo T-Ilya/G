@@ -1,0 +1,15 @@
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/bin/Debug/net6.0/Lec1
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/bin/Debug/net6.0/Lec1.deps.json
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/bin/Debug/net6.0/Lec1.runtimeconfig.json
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/bin/Debug/net6.0/Lec1.dll
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/bin/Debug/net6.0/Lec1.pdb
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/obj/Debug/net6.0/Lec1.csproj.AssemblyReference.cache
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/obj/Debug/net6.0/Lec1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/obj/Debug/net6.0/Lec1.AssemblyInfoInputs.cache
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/obj/Debug/net6.0/Lec1.AssemblyInfo.cs
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/obj/Debug/net6.0/Lec1.csproj.CoreCompileInputs.cache
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/obj/Debug/net6.0/Lec1.dll
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/obj/Debug/net6.0/refint/Lec1.dll
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/obj/Debug/net6.0/Lec1.pdb
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/obj/Debug/net6.0/Lec1.genruntimeconfig.cache
+/Users/ilyatkachuk/Desktop/Обучение на GB/Lessons/Lectures/Lec1/obj/Debug/net6.0/ref/Lec1.dll
